@@ -1,0 +1,9 @@
+//$DELIMITER "tab"
+//$QUOTED-TEXT "no"
+//$CHARSET ANSI
+//$UNIT Distance:m
+//$FORMAT 2
+//$SYSCOORD {Type: 101}
+//$FIELDS Class=civil_war_by_campaign;Subclass=civil_war_by_campaign;Kind=1;Fields=Private#Identifier	Private#Class	Private#Subclass	Private#Name	Private#NbFields	Name	description	timestamp	begin	end	altitudeMode	tessellate	extrude	visibility	drawOrder	icon	Private#X	Private#Y
+//$3DOBJECTMONO
+-1	civil_war_by_campaign	civil_war_by_campaign	civil_war_by_campaign	11	Pea Ridge/Elkhorn Tavern, AR	March 6-8, 1862 <a href="http://americancivilwar.com/statepic/ar/ar001.html">@##Description</a><br>				relativeToGround	-1	0	0			-94.033734000	36.454878000	0
