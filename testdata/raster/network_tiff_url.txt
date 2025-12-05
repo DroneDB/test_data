@@ -1,0 +1,1 @@
+https://public.services.aad.gov.au/datasets/science/voyage_202122020/multibeam/GA-4886/L3/4886_VanderfordGlacier/32Bit_Geotifs/GA4886_VanderfordGlacier_2022_EGM2008_64m-epsg3031.cog
