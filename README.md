@@ -34,3 +34,5 @@ For complete terms and conditions, see [`LICENSE.md`](LICENSE.md).
 ---
 
 *Note: Some data may be available elsewhere under different licenses. This license only governs data accessed from this specific repository.*
+
+*The FLIR radiometric JPEGs of `thermal/FLIR/` are published works under their own open licences (CC-BY-4.0, CC0-1.0): see [`thermal/FLIR/ATTRIBUTION.md`](thermal/FLIR/ATTRIBUTION.md).*
